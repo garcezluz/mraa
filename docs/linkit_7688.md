@@ -13,6 +13,8 @@ Features:
  * 1 I2C port
  * 1 I2S port (not supported by libmraa)
 
+![Pinout](http://www.cnx-software.com/wp-content/uploads/2015/12/Link_Smart_7688_Pinout.png)
+
 
 Revision Support
 ----------------
