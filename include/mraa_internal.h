@@ -75,6 +75,13 @@ mraa_platform_t mraa_usb_platform_extender(mraa_board_t* board);
 mraa_result_t mraa_iio_detect();
 
 /**
+ * runtime detect running arm platforms
+ *
+ * @return mraa_platform_t of the init'ed platform
+ */
+mraa_platform_t mraa_mips_platform();
+
+/**
  * helper function to check if file exists
  *
  * @param filename to check
