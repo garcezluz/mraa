@@ -31,7 +31,7 @@ To build the documentation you'll also need:
 ~~~~~~~~~~~~~{.sh}
 mkdir build
 cd build
-cmake ..
+cmake .. -DBUILDARCH=mips
 make
 ~~~~~~~~~~~~~
 
