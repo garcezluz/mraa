@@ -30,9 +30,14 @@
 #include <unistd.h>
 #include <string.h>
 #include <termios.h>
+#include <sys/select.h>
 
 #include "uart.h"
 #include "mraa_internal.h"
+
+#ifndef CMSPAR
+#define CMSPAR   010000000000
+#endif
 
 #ifndef CMSPAR
 #define CMSPAR	  010000000000
