@@ -17,7 +17,7 @@ what you'll need:
 For Debian-like distros the below command installs the basic set:
 
 ```bash
-sudo apt-get install git build-essential swig3.0 python-dev nodejs-dev cmake
+sudo apt-get install git build-essential swig3.0 python-dev nodejs-dev cmake swig
 ```
 
 To build the documentation you'll also need:
