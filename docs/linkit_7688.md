@@ -22,12 +22,6 @@ Linkit Smart 7688
 Linkit Smart 7688 Duo
 
 
-Build notes
------------
-
-Use cmake option "-DBUILDARCH=mips" to build.
-
-
 Pin Mapping
 -----------
 
