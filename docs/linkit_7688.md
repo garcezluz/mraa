@@ -18,8 +18,8 @@ Features:
 
 Revision Support
 ----------------
-Linkit Smart 7688
-Linkit Smart 7688 Duo
+ * Linkit Smart 7688
+ * Linkit Smart 7688 Duo
 
 
 Pin Mapping
